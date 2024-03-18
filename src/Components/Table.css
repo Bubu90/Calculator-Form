@@ -1,0 +1,16 @@
+.result {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #6fd9b7ff;
+}
+
+.result th {
+  text-align: center;
+  padding: 1rem;
+}
+
+.result td {
+  text-align: center;
+}
